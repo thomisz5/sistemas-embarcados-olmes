@@ -1,0 +1,1 @@
+Esse projeto foi um sistema de seguranca baseado em um sensor indutivo que detectava quando uma porta abria e enviava um sinal para o esp32 que acionava luzes led, buzzer e mostrava no display 16x2 que havia sido aberta por meio de contador
